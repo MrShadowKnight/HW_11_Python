@@ -89,7 +89,7 @@ main()
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("6565039876:AAHNJ5OrwAzB7icAGrgj-L0raA7J6z3OVzY")
+bot = telebot.TeleBot("   ")
 
 print("___ START BOT ______")
 
