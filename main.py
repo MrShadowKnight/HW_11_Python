@@ -86,6 +86,8 @@ def main():
 
 main()
 
+# Телеграм Бот
+
 import telebot
 from telebot import types
 
